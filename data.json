@@ -1,0 +1,114 @@
+[
+  {
+    "href": "https://github.com/KwDrama/OST",
+    "img": "https://github.com/KwDrama/OST/raw/develop/Document/OfficeChat.gif?raw=true",
+    "title": "💬 사무용 메신저",
+    "content": "카카오톡을 모티브로 C# 과 MySQL 등을 사용해 만든 사내 채팅 프로그램 팀프로젝트 입니다.",
+    "date": "2021년 3월 12일 ~ 2021년 6월 11일",
+    "tags": ["C#", "MySQL", ".Net Core 3.1", ".Net Framekwork 4.7.2"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#-catchmind-%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8",
+    "img": "https://github.com/geoje/KwUniversity/raw/master/ApplicationSoftwarePractice/CatchMind_Client/CatchMind.gif?raw=true",
+    "title": "🤔 캐치 마인드",
+    "content": "C# 언어로 소켓, 패킷 통신을 통해 구현된 원격으로 플레이할 수 있는 캐치마인드 프로그램 입니다.",
+    "date": "2021년 5월 14일 ~ 2021년 6월 11일",
+    "tags": ["C#", ".Net Framekwork 4.7.2"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#-othello-%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8",
+    "img": "https://github.com/geoje/KwUniversity/blob/master/SystemSoftwarePractice/Project2/Othello.gif?raw=true",
+    "title": "⚪ 오델로",
+    "content": "C 언어로 ncurses 라는 CLI 환경 라이브러리를 사용하여 만든 오델로 라는 보드게임을 원격으로 플레이할 수 있는 프로그램입니다.",
+    "date": "2018년 10월 19일 ~ 2018년 12월 16일",
+    "tags": ["C", "GCC", "Bash"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#-scorechart-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C",
+    "img": "https://github.com/geoje/KwUniversity/raw/master/ObjectOrientedProgramming/hw5/ScoreChart.gif?raw=true",
+    "title": "📊 점수 차트",
+    "content": "JavaFX를 기반하여 GUI 로 만들어진 점수 입력 후 그래프 통계를 볼 수 있는 프로그램입니다.",
+    "date": "2018년 11월 29일 ~ 2018년 12월 14일",
+    "tags": ["Java", "JavaFX"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#-fileexplorer-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C",
+    "img": "https://github.com/geoje/KwUniversity/raw/master/LinuxApplicationPractice/Project2/FileExplorer.gif?raw=true",
+    "title": "📁 파일 탐색기",
+    "content": "Bash Shell 스크립트 이며 리눅스 Ubuntu 운영체제에서 작성되었고 CLI 환경으로 사용할 수 있는 파일탐색기 입니다.",
+    "date": "2018년 4월 25일 ~ 2018년 6월 18일",
+    "tags": ["Shell Script", "Bash"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#%EF%B8%8F-characters-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C",
+    "img": "https://github.com/geoje/KwUniversity/raw/master/CppProgramming/Project2/Characters.gif?raw=true",
+    "title": "👮‍♂️ 경찰과 도둑",
+    "content": "Bash Shell 스크립트 이며 리눅스 Ubuntu 운영체제에서 작성되었고 CLI 환경으로 사용할 수 있는 파일탐색기 입니다.",
+    "date": "2018년 5월 10일 ~ 2018년 5월 27일",
+    "tags": ["C++", "FLTK"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#-shapes-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C",
+    "img": "https://github.com/geoje/KwUniversity/raw/master/CppProgramming/Project2/Shapes.PNG?raw=true",
+    "title": "⭐ 다각형",
+    "content": "C++ 에서 GUI 프로그래밍을 도와주는 FLTK 라이브러리를 사용해 만든 랜덤 도형 표시 프로그램입니다.",
+    "date": "2018년 5월 10일 ~ 2018년 5월 27일",
+    "tags": ["C++", "FLTK"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#-caculator-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C",
+    "img": "https://github.com/geoje/KwUniversity/raw/master/CppProgramming/Project1/Calculator.PNG?raw=true",
+    "title": "🧮 계산기",
+    "content": "Command Line에서 수식을 계산해주는 프로그램 입니다. 재귀함수의 효과를 제대로 느낄 수 있었고 나중에 Backtracking 알고리즘 기술을 배울 때 발판이 되었습니다.",
+    "date": "2018년 4월 5일 ~ 2018년 4월 22일",
+    "tags": ["C++"]
+  },
+  {
+    "href": "https://github.com/geoje/KwUniversity#-number-plus-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C",
+    "img": "https://github.com/geoje/KwUniversity/raw/master/CProgrammingAdvanced/FinalProject/NumberPlus.gif?raw=true",
+    "title": "🔢 Number Plus",
+    "content": "C 언어의 SDL 라이브러리를 사용하여 만든 간단한 게임입니다. 2x2 사이즈 부터 5x5 사이즈까지 난이도를 선택할 수 있고 그 크기에 랜덤한 숫자가 순서대로 배열되게 되는데 제한시간동안 숫자를 순차적으로 최대한 빠르게 클릭하면 됩니다.",
+    "date": "2017년 11월 28일 ~ 2017년 12월 20일",
+    "tags": ["C", "SDL"]
+  },
+  {
+    "href": "https://github.com/geoje/Games#ygh-ball-2-2013-02-13",
+    "img": "https://github.com/geoje/Games/blob/master/Images/YGHBall2Single.gif?raw=true",
+    "title": "⚫ YGH Ball 2",
+    "content": "바운스볼을 모티브로한 공튀기기 게임입니다. 멀티 플레이도 가능하며 미니게임도 있고 맵을 직접 제작할 수도 있습니다.",
+    "date": "2012년 12월 13일 ~ 2013년 2월 13일",
+    "tags": ["GameMaker"]
+  },
+  {
+    "href": "https://github.com/geoje/Games#redstone-simulator-2013-04-02",
+    "img": "https://github.com/geoje/Games/raw/master/Images/RedstoneSimulatorDemo.png?raw=true",
+    "title": "🔌 레드스톤 시뮬레이터",
+    "content": "마인크래프트의 레드스톤 시스템을 평면으로 구현한 게임입니다. NOT, AND, XOR 등의 회로를 사용할 수 있고 Wireless도 가능합니다.",
+    "date": "2013년 4월 2일",
+    "tags": ["GameMaker"]
+  },
+  {
+    "href": "https://github.com/geoje/Games#polygon-platform-2012-09-01",
+    "img": "https://github.com/geoje/Games/raw/master/Images/PolygonPlatformDemo.gif?raw=true",
+    "title": "🏃‍♂️ 다각형 플랫폼",
+    "content": "장애물을 피해 미로를 통과하는 게임입니다. 안드로이드에서도 실행 가능하지만 맵이 구현 되어있지 않습니다.",
+    "date": "2012년 9월 1일",
+    "tags": ["GameMaker"]
+  },
+  {
+    "href": "https://github.com/geoje/Games#oneline-platform-2012-03-16",
+    "img": "https://github.com/geoje/Games/blob/master/Images/OnlinePlatform.gif?raw=true",
+    "title": "🏃‍♀️ 온라인 플랫폼",
+    "content": "장애물을 피해 미로를 통과하는 게임입니다. 멀티 플레이가 가능하며 날파리 피하는 미니게임도 있습니다.",
+    "date": "2012년 3월 16일",
+    "tags": ["GameMaker"]
+  },
+  {
+    "href": "https://github.com/geoje/Games#ygh-ball-2012-02-22",
+    "img": "https://github.com/geoje/Games/raw/master/Images/YGHBall.gif?raw=true",
+    "title": "⚫ YGH Ball",
+    "content": "장애물을 피해 미로를 통과하는 공튀기기 게임입니다. 난이도가 극악이며 관성이 심하여 엄청난 컨트롤이 필요합니다.",
+    "date": "2012년 2월 22일 ~ 2012년 4월 22일",
+    "tags": ["GameMaker"]
+  }
+]
