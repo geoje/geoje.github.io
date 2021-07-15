@@ -5,7 +5,7 @@
     "title": "💬 사무용 메신저",
     "content": "카카오톡을 모티브로 C# 과 MySQL 등을 사용해 만든 사내 채팅 프로그램 팀프로젝트 입니다.",
     "date": "2021년 3월 12일 ~ 2021년 6월 11일",
-    "tags": ["C#", "MySQL", ".Net Core 3.1", ".Net Framekwork 4.7.2"]
+    "tags": ["C#", "MySQL", ".Net Core", ".Net Framekwork"]
   },
   {
     "href": "https://github.com/geoje/KwUniversity#-catchmind-%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8",
@@ -13,7 +13,7 @@
     "title": "🤔 캐치 마인드",
     "content": "C# 언어로 소켓, 패킷 통신을 통해 구현된 원격으로 플레이할 수 있는 캐치마인드 프로그램 입니다.",
     "date": "2021년 5월 14일 ~ 2021년 6월 11일",
-    "tags": ["C#", ".Net Framekwork 4.7.2"]
+    "tags": ["C#", ".Net Framekwork"]
   },
   {
     "href": "https://github.com/geoje/KwUniversity#-othello-%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8",
