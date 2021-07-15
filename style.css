@@ -148,7 +148,8 @@ seciton {
   .card {
     width: calc(50% - 2rem);
   }
-  .card:hover {
+  .card:hover,
+  header > a > img:hover {
     transform: none;
   }
 }
