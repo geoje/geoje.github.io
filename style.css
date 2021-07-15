@@ -86,7 +86,7 @@ seciton {
   padding: 1rem;
 }
 .card-body > h4 {
-  margin: 0;
+  margin: 0 0 0.5rem;
 }
 .card-body p {
   display: -webkit-box;
@@ -94,7 +94,7 @@ seciton {
 
   line-height: 1.2rem;
   font-size: 14px;
-  margin: 0.5rem 0 0;
+  margin: 0 0 1.5rem;
 
   overflow: hidden;
   text-overflow: ellipsis;
@@ -105,7 +105,6 @@ seciton {
 }
 .card-body > span {
   display: inline-block;
-  margin: 1.5rem 0 0;
 
   font-size: 12px;
   color: rgb(144, 144, 144);
