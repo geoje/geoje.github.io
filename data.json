@@ -3,8 +3,8 @@
     "href": "https://github.com/geoje/MapleUnionTiler",
     "img": "https://github.com/geoje/MapleUnionTiler/blob/master/public/image/readme/Normal.gif?raw=true",
     "title": "🍁 메이플 유니온 배치기",
-    "content": "Exact Cover 알고리즘을 번형하여 주어진 도형들을 사용자가 그린 영역에 어떻게 배치하면 되는지 알려주는 사이트 입니다. 메이플 스토리의 유니온을 도와줍니다.",
-    "date": "2021년 11월 11일 ~ 2021년 8월 1일",
+    "content": "Exact Cover 알고리즘을 변형하여 주어진 도형들을 사용자가 그린 영역에 어떻게 배치하면 되는지 알려주는 사이트 입니다. 메이플 스토리의 유니온을 도와줍니다.",
+    "date": "2020년 11월 11일 ~ 2021년 8월 1일",
     "tags": ["HTML", "CSS", "Javascript", "Node.js"]
   },
   {
